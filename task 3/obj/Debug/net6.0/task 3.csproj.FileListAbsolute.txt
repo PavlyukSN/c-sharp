@@ -1,0 +1,15 @@
+H:\Учёба разработчик\c#\практика\1 home\task 3\bin\Debug\net6.0\task 3.exe
+H:\Учёба разработчик\c#\практика\1 home\task 3\bin\Debug\net6.0\task 3.deps.json
+H:\Учёба разработчик\c#\практика\1 home\task 3\bin\Debug\net6.0\task 3.runtimeconfig.json
+H:\Учёба разработчик\c#\практика\1 home\task 3\bin\Debug\net6.0\task 3.dll
+H:\Учёба разработчик\c#\практика\1 home\task 3\bin\Debug\net6.0\task 3.pdb
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.csproj.AssemblyReference.cache
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.GeneratedMSBuildEditorConfig.editorconfig
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.AssemblyInfoInputs.cache
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.AssemblyInfo.cs
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.csproj.CoreCompileInputs.cache
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.dll
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\refint\task 3.dll
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.pdb
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\task 3.genruntimeconfig.cache
+H:\Учёба разработчик\c#\практика\1 home\task 3\obj\Debug\net6.0\ref\task 3.dll
